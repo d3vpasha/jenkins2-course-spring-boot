@@ -6,20 +6,10 @@
 	<groupId>org.springframework.boot</groupId>
 	<artifactId>spring-boot-build</artifactId>
 	<version>1.4.0.BUILD-SNAPSHOT</version>
-
-
 	<packaging>pom</packaging>
-
-
 	<name>Spring Boot Build Mehmet</name>
-
-
 	<description>Spring Boot Build</description>
-
-
 	<url>http://projects.spring.io/spring-boot/</url>
-
-
 	<organization>
 		<name>Pivotal Software, Inc.</name>
 		<url>http://www.spring.io</url>
